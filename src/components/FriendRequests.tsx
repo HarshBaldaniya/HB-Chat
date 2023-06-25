@@ -1,10 +1,16 @@
-"use client"
+"use client";
 
 import { FC, useState } from "react";
 
-interface FriendRequestsProps {}
+interface FriendRequestsProps {
+  incomingFriendRequests: IncomingFriendRequest[];
+  sessionId: string;
+}
 
-const FriendRequests: FC<FriendRequestsProps> = ({}) => {
+const FriendRequests: FC<FriendRequestsProps> = ({
+  incomingFriendRequests,
+  sessionId,
+}) => {
   const [friendRequests, setFriendRequests] = useState<IncomingFriendRequest[]>(
     incomingFriendRequests
   );
