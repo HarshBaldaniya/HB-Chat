@@ -5,11 +5,11 @@ import GoogleProvider from "next-auth/providers/google";
 import { fetchRedis } from "@/helpers/redis";
 
 function getGoogleCredentianls() {
-  const clientId = process.env.GOOGLE_CLIENT_ID;
-  const clientSecret = process.env.GOOGLE_CLIENT_SECRET;
+  const clientId = "426462334174-qoo56fvsfd6f6mfp1eqrq82iism1tkid.apps.googleusercontent.com";
+  const clientSecret = "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";
 
   if (!clientId || clientId.length === 0) {
-    throw new Error("Missing GOOGLE_CLIENT_ID");
+    throw new Error("Missing GOOGLE_CLIENT_ID HB");
   }
 
   if (!clientSecret || clientSecret.length === 0) {
