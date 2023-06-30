@@ -44,7 +44,7 @@ const Button: FC<ButtonProps> = ({
       disabled={isLoading}
       {...props}
     >
-      {isLoading ? <Loader2 className="mr-4 h-4 w-4 animate-spin" /> : null}
+      {isLoading ? <Loader2 className="mr-4 mt-0.5 h-4 w-4 animate-spin" /> : null}
       {children}
     </button>
   );
