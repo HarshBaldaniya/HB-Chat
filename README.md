@@ -46,6 +46,13 @@ To see a demo of this project, check out this [Live](https://hb-chats.vercel.app
 
 
 ## Screenshots
+![2023-07-03 02_19_52-Greenshot](https://github.com/HarshBaldaniya/HB-Chat/assets/89580214/85d7b282-998a-46b5-a9b8-1eac623fef9c)
+![2023-07-03 02_21_06-Greenshot](https://github.com/HarshBaldaniya/HB-Chat/assets/89580214/b14da37e-bfe6-4a35-ba35-1421c4e406fb)
+![2023-07-03 02_21_26-Greenshot](https://github.com/HarshBaldaniya/HB-Chat/assets/89580214/4016e375-271f-4b49-b093-74caa698755d)
+![2023-07-03 02_21_26-Greenshot](https://github.com/HarshBaldaniya/HB-Chat/assets/89580214/0a1d659d-5482-466e-9bc9-7ffeaa395a89)
+![2023-07-03 02_21_45-Greenshot](https://github.com/HarshBaldaniya/HB-Chat/assets/89580214/3af51f2c-eeac-4141-ab08-bdba15be41ec)
+
+
 
 
 
