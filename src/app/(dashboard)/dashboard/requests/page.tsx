@@ -5,6 +5,10 @@ import { getServerSession } from "next-auth";
 import { notFound } from "next/navigation";
 import { FC } from "react";
 
+export const metadata = {
+  title: "Requests?🤔"
+}
+
 const page = async ({}) => {
   const session = await getServerSession(authOptions);
   if (!session) notFound();

@@ -9,6 +9,11 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { FC } from "react";
 
+export const metadata = {
+  title: "Chatting...😀"
+}
+
+
 interface PageProps {
   params: {
     chatId: string;

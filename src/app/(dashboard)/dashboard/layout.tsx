@@ -17,10 +17,10 @@ interface LayoutProps {
   children: ReactNode;
 }
 
-// Done after the video and optional: add page metadata
 export const metadata = {
-  title: "FriendZone | Dashboard",
+  title: "HB-Chat",
   description: "Your dashboard",
+  template: "%s | HB-Chat"
 };
 
 const sidebarOptions: SidebarOption[] = [

@@ -1,6 +1,10 @@
 import AddFriendButton from "@/components/AddFriendButton";
 import { FC } from "react";
 
+export const metadata = {
+  title: "Add Friend😎"
+}
+
 const page: FC = ({}) => {
   return (
     <main className="pt-8">
