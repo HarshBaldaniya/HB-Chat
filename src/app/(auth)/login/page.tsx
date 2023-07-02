@@ -29,7 +29,7 @@ const Page: FC<pageProps> = ({}) => {
         <div className="flex w-full flex-col items-center max-w-md space-y-8">
           <div className="flex flex-col items-center gap-8">
           <Image
-              src="https://i.ibb.co/RcX1Wd9/HB-04-2.png"
+              src="https://i.postimg.cc/rFNCP74G/HB-LOGO3.png"
               width={100}
               height={100}
               alt="Logo"
