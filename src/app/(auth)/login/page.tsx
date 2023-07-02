@@ -5,9 +5,7 @@ import { FC, useState } from "react";
 import { signIn } from "next-auth/react";
 import { toast } from "react-hot-toast";
 
-export const metadata = {
-  title: "Login/Signup",
-};
+
 
 interface pageProps {}
 
