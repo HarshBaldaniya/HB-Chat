@@ -19,7 +19,7 @@ interface LayoutProps {
 
 export const metadata = {
   title: "HB-Chat",
-  description: "Your dashboard",
+  description: "Your Dashboard Part",
   template: "%s | HB-Chat"
 };
 
